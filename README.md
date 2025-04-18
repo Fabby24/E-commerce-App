@@ -19,7 +19,7 @@ A simple and responsive e-commerce web application built with **HTML**, **CSS**,
 
 ## 📁 Folder Structure
 
-/project-root │ ├── index.html # Main HTML page ├── style.css # Custom CSS for styling ├── app.js # JavaScript for interactivity ├── api.php # Handles API requests (get/add/remove/checkout) ├── db.php # Database connection └── ecommerce.PNG # Screenshot image for README
+/project-root │ ├── index.html # Main HTML page ├── style.css # Custom CSS for styling ├── app.js # JavaScript for interactivity ├── api.php # Handles API requests (get/add/remove/checkout) ├── db.php # Database connection 
 
 ## 🛠️ Setup Instructions
 
