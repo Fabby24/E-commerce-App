@@ -74,7 +74,7 @@ POST	/api.php?action=checkout	Clear cart (checkout)
 👤 Author
 Fabian Musau
 
-GitHub: @yFabby24
+GitHub: @Fabby24
 
 Email: musaufabian7@gmail.com
 
